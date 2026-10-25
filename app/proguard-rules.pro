@@ -1,0 +1,1 @@
+# PocketCore AI ProGuard rules
