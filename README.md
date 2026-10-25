@@ -3,8 +3,8 @@
 > **Sovereign, High-Performance On-Device Multi-Modal AI for Android**  
 > Tailored for the **Samsung Galaxy S25** (Snapdragon 8 Elite, Adreno 830 GPU, 12 GB LPDDR5X RAM) with the **One UI Pro** design system.
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/prashant-rajpu/pocketcore-ai/releases/tag/v1.0.0)
-[![Direct APK Download](https://img.shields.io/badge/Download-APK%20(Galaxy%20S25)-success.svg)](https://github.com/prashant-rajpu/pocketcore-ai/releases/download/v1.0.0/PocketCore-AI-GalaxyS25-v1.0.0-debug.apk)
+[![Release](https://img.shields.io/badge/Release-v1.0.1-blue.svg)](https://github.com/prashant-rajpu/pocketcore-ai/releases/tag/v1.0.1)
+[![Direct APK Download](https://img.shields.io/badge/Download-APK%20(v1.0.1)-success.svg)](https://github.com/prashant-rajpu/pocketcore-ai/releases/download/v1.0.1/PocketCore-AI-GalaxyS25-v1.0.1.apk)
 [![Tests Passing](https://img.shields.io/badge/Tests-115%2F115%20Passed-brightgreen.svg)](https://github.com/prashant-rajpu/pocketcore-ai)
 [![Architecture](https://img.shields.io/badge/Architecture-ARM64--v8a%20%7C%20Vulkan-orange.svg)](https://github.com/prashant-rajpu/pocketcore-ai)
 
